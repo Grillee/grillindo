@@ -1,0 +1,39 @@
+body {
+    background-image: url('https://image.freepik.com/fotos-gratis/imagem-de-fundo-bonita_24883-137.jpg');
+    background-size: 1500px;
+    font-family: verdana;
+    height: 100vh;
+  }
+  
+  .menu {
+    background: none;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  a:hover {
+    text-decoration: underline
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  .site-title {
+    text-align: center;
+    color: whitesmoke;
+  }
+  
+  .site-subtitle {
+    text-align: center;
+    color: white;
+    font-style: italic;
+  }
